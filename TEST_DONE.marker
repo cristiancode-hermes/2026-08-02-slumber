@@ -4,4 +4,4 @@ Build: ✅ API tsc exit 0 + web ng build exit 0 (dist/slumber-web/browser)
 Tests: 34/34 passing (4 suites, Jest)
 New tests: existing coverage adequate
 Issues: 2 minor (password minlength frontend 6 vs backend 8; onboarding vacío para usuarios nuevos)
-Published: ✅ Caddy (slumber.proyectos.cristiancode.dev), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ Landing (categoría Core), ✅ GitHub (2026-08-02-slumber), ✅ manage-apis.sh (puerto 3054)
+Published: ✅ Caddy (slumber.proyectos.cristiancode.dev), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ Landing (categoría Core), ✅ GitHub (2026-08-02-slumber), ✅ manage-apis.sh (puerto 3054), ✅ Excel (Row 70)
